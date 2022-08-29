@@ -16,32 +16,19 @@ export default function TVs() {
         <nav>
           <p><br /></p>
 
-    <Card>
-    <Card.Body><Link to="./Tvab"><Button variant="primary" size="lg" width="100%">
-    TV Aberta
-        </Button></Link></Card.Body>
-    </Card>
+          <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1458E/production/_121124338_gettyimages-909929558.jpg" />
+      <Card.Body>
+        <Card.Title>Pornhub</Card.Title>
+        <Link to="./Pornoh"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
 
-    <Card>
-    <Card.Body><Link to="./Tvsf"><Button variant="primary" size="lg" width="100%">
-    Filmes
-        </Button></Link></Card.Body>
-    </Card>
-
-
-    <Card>
-    <Card.Body><Link to="./Tvsp"><Button variant="primary" size="lg" width="100%">
-    Sports
-        </Button></Link></Card.Body>
-    </Card>
-
-
-    <Card>
-    <Card.Body><Link to="./Jornalismo"><Button variant="primary" size="lg" width="100%">
-    Jornalismo
-        </Button></Link></Card.Body>
-    </Card>
-    
+   
 
    
 
