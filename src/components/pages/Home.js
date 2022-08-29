@@ -32,10 +32,10 @@ export default function Home() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1458E/production/_121124338_gettyimages-909929558.jpg" />
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bhbPSpYjsRJAK7rXqL8APK9EwBl.jpg" />
       <Card.Body>
-        <Card.Title>Pornhub</Card.Title>
-        <Link to="./Pornoh"><Button variant="primary" size="lg" width="100%">
+        <Card.Title>Pornô</Card.Title>
+        <Link to="./Pornof"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>

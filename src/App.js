@@ -9,6 +9,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Porcategoria from './components/pages/Porcategoria';
 import TVs from './components/pages/TVs';
 import Pornoh from './components/pages/Pornoh';
+import Pornof from './components/pages/Pornof';
 
 
 
@@ -27,9 +28,9 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/porcategoria' component={Porcategoria} />
-
         <Route path='/tvs' component={TVs} />
         <Route path='/pornoh' component={Pornoh} />
+        <Route path='/pornof' component={Pornof} />
 
 
 
