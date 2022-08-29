@@ -10,6 +10,7 @@ import Porcategoria from './components/pages/Porcategoria';
 import TVs from './components/pages/TVs';
 import Pornoh from './components/pages/Pornoh';
 import Pornof from './components/pages/Pornof';
+import Pornosj from './components/pages/Pornosj';
 
 
 
@@ -31,6 +32,7 @@ function App() {
         <Route path='/tvs' component={TVs} />
         <Route path='/pornoh' component={Pornoh} />
         <Route path='/pornof' component={Pornof} />
+        <Route path='/pornosj' component={Pornosj} />
 
 
 

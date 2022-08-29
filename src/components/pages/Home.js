@@ -25,7 +25,7 @@ export default function Home() {
       </div></div></div>
       
         <nav>
-        <p><br /></p>
+
 
         <CardGroup>
        
@@ -40,6 +40,23 @@ export default function Home() {
         </Button></Link>
       </Card.Body>
     </Card></center>
+
+           
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3kTPSWzNV5ui43eUSN790Q9lVEt.jpg" />
+      <Card.Body>
+        <Card.Title>Porn Star</Card.Title>
+        <Link to="./Pornosj"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+
+
+
   
     </CardGroup> 
 

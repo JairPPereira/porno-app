@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Pornof() {
+export default function Pornosj() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Pornof() {
             <Row>
               <Col>
       <iframe
-        src="https://embed.warezcdn.net/filme/tt0261189"
+        src="https://embed.warezcdn.net/filme/tt0282856"
         target="_blank"
         frameborder="0"
         width="100%" height="600px"
