@@ -41,6 +41,18 @@ export default function TVs() {
            </Button></Link>
          </Card.Body>
        </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1458E/production/_121124338_gettyimages-909929558.jpg" />
+         <Card.Body>
+           <Card.Title>Live Cams</Card.Title>
+           <Link to="./Tvlivec"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
    
    
    

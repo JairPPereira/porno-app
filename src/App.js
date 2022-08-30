@@ -15,6 +15,7 @@ import Daddyp from './components/pages/Daddyp';
 import Livecam from './components/pages/Livecam';
 import Tvgangbang from './components/pages/Tvgangbang';
 import Filmes from './components/pages/Flimes';
+import Tvlivec from './components/pages/Tvllivec';
 
 
 
@@ -41,6 +42,7 @@ function App() {
         <Route path='/livecam' component={Livecam} />
         <Route path='/tvgangbang' component={Tvgangbang} />
         <Route path='/filmes' component={Filmes} />
+        <Route path='/tvlivec' component={Tvlivec} />
 
 
 
