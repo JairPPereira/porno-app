@@ -6,7 +6,6 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
-import CardGroup from 'react-bootstrap/CardGroup';
 
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -25,57 +24,35 @@ export default function Home() {
       </div></div></div>
       
         <nav>
-
-
-        <CardGroup>
-       
-    <center>
-          <p></p>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bhbPSpYjsRJAK7rXqL8APK9EwBl.jpg" />
-      <Card.Body>
-        <Card.Title>Pornô</Card.Title>
-        <Link to="./Pornof"><Button variant="primary" size="lg" width="100%">
-      Assistir
-        </Button></Link>
-      </Card.Body>
-    </Card></center>
-
-           
-    <center>
-          <p></p>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3kTPSWzNV5ui43eUSN790Q9lVEt.jpg" />
-      <Card.Body>
-        <Card.Title>Porn Star</Card.Title>
-        <Link to="./Pornosj"><Button variant="primary" size="lg" width="100%">
-      Assistir
-        </Button></Link>
-      </Card.Body>
-    </Card></center>
-
-    <center>
-          <p></p>
-      <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/5wxor2rzqQnGlm6MXvnamg6L1Kw.jpg" />
-      <Card.Body>
-        <Card.Title>Daddy Please</Card.Title>
-        <Link to="./Daddyp"><Button variant="primary" size="lg" width="100%">
-      Assistir
-        </Button></Link>
-      </Card.Body>
-    </Card></center>
-
-
-
-
+        <p><br /></p>
   
-    </CardGroup> 
+        
+        <Card>
+      <Card.Body><Link to="/Filmes"><Button variant="primary" size="lg" width="100%">
+          Filmes
+        </Button></Link></Card.Body>
+    </Card>
 
+
+    <Card>
+      <Card.Body><Link to="/TVs"><Button variant="primary" size="lg" width="80%">
+        TVs
+        </Button></Link></Card.Body>
+    </Card>
+
+      
+    <Card>
+      <Card.Body>Conteúdo adulto. Para maoires de 18 anos</Card.Body>
+    </Card>
+   
+    <Card>
+      <Card.Body>O site PORNO APP é uma plataforma para assistir filmes e séries online, Esta página funciona com base nas últimas tecnologias lançadas nesta geração voltada ao uso de inteligência artificial, robots e API de dados, ou seja, não hospedamos vídeos em nossos servidores, apenas, de forma automática, indexamos os arquivos que são capturados pela web, nos tornando completamente legais e dentro da lei. O uso desta plataforma é de total responsabilidade do usuário. Qualquer violação de direitos autorais, entre em contato com o distribuidor. Em caso de dúvidas ou reclamações sobre o conteúdo, entre em contato conosco para obter a devida ajuda.</Card.Body>
+    </Card>
           
   
         </nav>
-
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8092263721786278"
+     crossorigin="anonymous"></script>
     <Container fluid="md">
       <Row>
         <Col></Col>

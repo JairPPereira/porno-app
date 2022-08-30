@@ -50,6 +50,18 @@ function Navbar() {
           <li className='nav-item'>
           
             <Link
+              to='/Filmes'
+              className='nav-links'
+              onClick={closeMobileMenu}
+            >
+              Filmes
+            </Link>
+          </li>
+
+          
+          <li className='nav-item'>
+          
+            <Link
               to='/tvs'
               className='nav-links'
               onClick={closeMobileMenu}
@@ -57,6 +69,7 @@ function Navbar() {
               TVs
             </Link>
           </li>
+
 
           <li className='nav-item'>
           
