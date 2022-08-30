@@ -13,6 +13,7 @@ import Pornof from './components/pages/Pornof';
 import Pornosj from './components/pages/Pornosj';
 import Daddyp from './components/pages/Daddyp';
 import Livecam from './components/pages/Livecam';
+import Tvgangbang from './components/pages/Tvgangbang';
 
 
 
@@ -37,6 +38,7 @@ function App() {
         <Route path='/pornosj' component={Pornosj} />
         <Route path='/daddyp' component={Daddyp} />
         <Route path='/livecam' component={Livecam} />
+        <Route path='/tvgangbang' component={Tvgangbang} />
 
 
 
