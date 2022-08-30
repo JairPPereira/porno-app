@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Tvplayboy() {
+export default function Venustv() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Tvplayboy() {
             <Row>
               <Col>
       <iframe
-        src="https://telefullenvivo.com/canales/playboy/"
+        src="https://telefullenvivo.com/canales/venus/"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -39,6 +39,18 @@ export default function TVs() {
            </Button></Link>
          </Card.Body>
        </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/venus.png" />
+         <Card.Body>
+           <Card.Title>Vênus</Card.Title>
+           <Link to="./Venustv"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
    
               
    

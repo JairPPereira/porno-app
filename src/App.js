@@ -17,6 +17,7 @@ import Tvgangbang from './components/pages/Tvgangbang';
 import Filmes from './components/pages/Flimes';
 import Tvlivec from './components/pages/Tvllivec';
 import Tvplayboy from './components/pages/Tvplayboy';
+import Venustv from './components/pages/Venustv';
 
 
 
@@ -45,6 +46,7 @@ function App() {
         <Route path='/filmes' component={Filmes} />
         <Route path='/tvlivec' component={Tvlivec} />
         <Route path='/tvplayboy' component={Tvplayboy} />
+        <Route path='/venustv' component={Venustv} />
         
 
 
