@@ -16,6 +16,7 @@ import Livecam from './components/pages/Livecam';
 import Tvgangbang from './components/pages/Tvgangbang';
 import Filmes from './components/pages/Flimes';
 import Tvlivec from './components/pages/Tvllivec';
+import Tvplayboy from './components/pages/Tvplayboy';
 
 
 
@@ -43,6 +44,8 @@ function App() {
         <Route path='/tvgangbang' component={Tvgangbang} />
         <Route path='/filmes' component={Filmes} />
         <Route path='/tvlivec' component={Tvlivec} />
+        <Route path='/tvplayboy' component={Tvplayboy} />
+        
 
 
 
