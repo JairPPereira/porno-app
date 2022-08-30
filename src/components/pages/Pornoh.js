@@ -17,6 +17,11 @@ export default function Pornoh() {
       <iframe
         src="https://embedflix.net/tv/pornhub-tv"
         target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

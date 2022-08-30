@@ -17,12 +17,15 @@ export default function Tvplayboy() {
       <iframe
         src="https://telefullenvivo.com/canales/playboy/"
         target="_blank"
-        data-popup="false" 
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
-        data-draggable="false"
       />{" "}
       </Col></Row></Container>
                   <div className="nave">
