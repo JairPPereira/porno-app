@@ -12,7 +12,7 @@ import CardGroup from 'react-bootstrap/CardGroup';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-export default function Home() {
+export default function Livecam() {
 
   return (
   <center>

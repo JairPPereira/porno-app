@@ -2,12 +2,13 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 
-export default function Jogosve1() {
+export default function Daddyp() {
   return (
     <div>
           <p><br /></p>
       <iframe
-        src="https://streamtape.com/e/zxo7yD6GWyiYjpl/"
+        src="https://streamtape.com/e/kZVRZwp27ZuOopz/"
+        target="_blank"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

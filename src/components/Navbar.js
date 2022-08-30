@@ -57,6 +57,17 @@ function Navbar() {
               TVs
             </Link>
           </li>
+
+          <li className='nav-item'>
+          
+          <Link
+            to='/livecam'
+            className='nav-links'
+            onClick={closeMobileMenu}
+          >
+            Live Cam
+          </Link>
+        </li>
          
         </ul>
 
