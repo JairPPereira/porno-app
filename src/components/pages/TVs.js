@@ -19,7 +19,7 @@ export default function TVs() {
        <center>
              <p></p>
          <Card style={{ width: '18rem' }}>
-         <Card.Img variant="top" src="https://static.wikia.nocookie.net/tvpediabrasil/images/4/4d/Playboytv.png/revision/latest?cb=20160807131916&path-prefix=pt-br" />
+         <Card.Img variant="top" src="https://rd1.com.br/wp-content/uploads/2014/04/playboy-tv-logo.png" />
          <Card.Body>
            <Card.Title>Playboy</Card.Title>
            <Link to="./Tvplayboy"><Button variant="primary" size="lg" width="100%">
