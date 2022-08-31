@@ -18,6 +18,9 @@ import Filmes from './components/pages/Flimes';
 import Tvlivec from './components/pages/Tvllivec';
 import Tvplayboy from './components/pages/Tvplayboy';
 import Venustv from './components/pages/Venustv';
+import Hustler from './components/pages/Hustler';
+import Redlight1 from './components/pages/Redlight1';
+
 
 
 
@@ -47,6 +50,9 @@ function App() {
         <Route path='/tvlivec' component={Tvlivec} />
         <Route path='/tvplayboy' component={Tvplayboy} />
         <Route path='/venustv' component={Venustv} />
+        <Route path='/hustler' component={Hustler} />
+        <Route path='/redlight1' component={Redlight1} />
+        
         
 
 

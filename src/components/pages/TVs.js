@@ -51,13 +51,38 @@ export default function TVs() {
            </Button></Link>
          </Card.Body>
        </Card></center>
+
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/hustlertv.png" />
+         <Card.Body>
+           <Card.Title>Hustler HD </Card.Title>
+           <Link to="./Hustler"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/redlight.png" />
+         <Card.Body>
+           <Card.Title>Redlight HD</Card.Title>
+           <Link to="./Redlight1"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
    
               
    
        <center>
              <p></p>
          <Card style={{ width: '18rem' }}>
-         <Card.Img variant="top" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1458E/production/_121124338_gettyimages-909929558.jpg" />
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
          <Card.Body>
            <Card.Title>Gang Bang</Card.Title>
            <Link to="./Tvgangbang"><Button variant="primary" size="lg" width="100%">
@@ -69,7 +94,7 @@ export default function TVs() {
        <center>
              <p></p>
          <Card style={{ width: '18rem' }}>
-         <Card.Img variant="top" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/1458E/production/_121124338_gettyimages-909929558.jpg" />
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
          <Card.Body>
            <Card.Title>Live Cams</Card.Title>
            <Link to="./Tvlivec"><Button variant="primary" size="lg" width="100%">

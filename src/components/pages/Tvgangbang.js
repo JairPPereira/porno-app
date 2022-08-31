@@ -71,11 +71,11 @@ class Tvgangbang extends Component {
                 />
                     <p><br /></p> </Col></Row></Container>
                <div className="nave">
-               <p><br /></p>
+               <p><br /></p><center>
 
 <Link to="/"><Button variant="primary" size="lg" width="80%">
 Home
-  </Button></Link>
+  </Button></Link></center>
 
 <p><br /></p>
 
