@@ -176,6 +176,30 @@ export default function TVs() {
            </Button></Link>
          </Card.Body>
        </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
+         <Card.Body>
+           <Card.Title>Milf</Card.Title>
+           <Link to="./Milf"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
+         <Card.Body>
+           <Card.Title>Bigdick</Card.Title>
+           <Link to="./Bigdick"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
    
    
    

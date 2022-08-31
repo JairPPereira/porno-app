@@ -26,6 +26,8 @@ import Hot from './components/pages/Hot';
 import Teensni from './components/pages/Teensni';
 import Dorcel from './components/pages/Dorcel';
 import Vividxxx from './components/pages/Vividxxx';
+import Milf from './components/pages/Milf';
+import Bigdick from './components/pages/Bigdick';
 
 
 
@@ -64,6 +66,8 @@ function App() {
         <Route path='/teensni' component={Teensni} />
         <Route path='/dorcel' component={Dorcel} />
         <Route path='/vividxxx' component={Vividxxx} />
+        <Route path='/milf' component={Milf} />
+        <Route path='/bigdick' component={Bigdick} />
         
         
 
