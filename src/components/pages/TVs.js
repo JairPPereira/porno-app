@@ -88,6 +88,42 @@ export default function TVs() {
            </Button></Link>
          </Card.Body>
        </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/sextreme.png" />
+         <Card.Body>
+           <Card.Title>Sextreme</Card.Title>
+           <Link to="./Sextreme"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/hot.png" />
+         <Card.Body>
+           <Card.Title>hot</Card.Title>
+           <Link to="./Hot"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://telefullenvivo.com/imagenes/teens.png" />
+         <Card.Body>
+           <Card.Title>Teens</Card.Title>
+           <Link to="./Teensni"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
    
               
    

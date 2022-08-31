@@ -21,6 +21,9 @@ import Venustv from './components/pages/Venustv';
 import Hustler from './components/pages/Hustler';
 import Redlight1 from './components/pages/Redlight1';
 import Brazzers from './components/pages/Brazzers';
+import Sextreme from './components/pages/Sextreme';
+import Hot from './components/pages/Hot';
+import Teensni from './components/pages/Teensni';
 
 
 
@@ -54,6 +57,9 @@ function App() {
         <Route path='/hustler' component={Hustler} />
         <Route path='/redlight1' component={Redlight1} />
         <Route path='/brazzers' component={Brazzers} />
+        <Route path='/sextreme' component={Sextreme} />
+        <Route path='/hot' component={Hot} />
+        <Route path='/teensni' component={Teensni} />
         
         
 
