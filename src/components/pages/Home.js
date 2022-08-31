@@ -51,8 +51,7 @@ export default function Home() {
           
   
         </nav>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8092263721786278"
-     crossorigin="anonymous"></script>
+
     <Container fluid="md">
       <Row>
         <Col></Col>

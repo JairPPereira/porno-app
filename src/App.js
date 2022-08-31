@@ -20,6 +20,7 @@ import Tvplayboy from './components/pages/Tvplayboy';
 import Venustv from './components/pages/Venustv';
 import Hustler from './components/pages/Hustler';
 import Redlight1 from './components/pages/Redlight1';
+import Brazzers from './components/pages/Brazzers';
 
 
 
@@ -52,6 +53,7 @@ function App() {
         <Route path='/venustv' component={Venustv} />
         <Route path='/hustler' component={Hustler} />
         <Route path='/redlight1' component={Redlight1} />
+        <Route path='/brazzers' component={Brazzers} />
         
         
 
