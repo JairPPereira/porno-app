@@ -29,6 +29,8 @@ import Vividxxx from './components/pages/Vividxxx';
 import Milf from './components/pages/Milf';
 import Bigdick from './components/pages/Bigdick';
 import Braziliantl1 from './components/pages/Braziliantl1';
+import Bigtits from './components/pages/Bigtits';
+import Fetish from './components/pages/Fetish';
 
 
 
@@ -70,6 +72,8 @@ function App() {
         <Route path='/milf' component={Milf} />
         <Route path='/bigdick' component={Bigdick} />
         <Route path='/braziliantl1' component={Braziliantl1} />
+        <Route path='/bigtits' component={Bigtits} />
+        <Route path='/fetish' component={Fetish} />
         
         
 
