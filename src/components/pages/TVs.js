@@ -225,6 +225,30 @@ export default function TVs() {
          </Card.Body>
        </Card></center>
 
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
+         <Card.Body>
+           <Card.Title>Pornstar</Card.Title>
+           <Link to="./Pornstar"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
+       <center>
+             <p></p>
+         <Card style={{ width: '18rem' }}>
+         <Card.Img variant="top" src="https://iptvmate.net/blog/wp-content/uploads/2021/03/IITV.png" />
+         <Card.Body>
+           <Card.Title>Big Ass</Card.Title>
+           <Link to="./Bigass"><Button variant="primary" size="lg" width="100%">
+         Assistir
+           </Button></Link>
+         </Card.Body>
+       </Card></center>
+
        
    
    

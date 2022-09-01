@@ -32,6 +32,8 @@ import Braziliantl1 from './components/pages/Braziliantl1';
 import Bigtits from './components/pages/Bigtits';
 import Fetish from './components/pages/Fetish';
 import Teend3 from './components/pages/Teend3';
+import Pornstar from './components/pages/Pornstar';
+import Bigass from './components/pages/Bigass';
 
 
 
@@ -76,6 +78,8 @@ function App() {
         <Route path='/bigtits' component={Bigtits} />
         <Route path='/fetish' component={Fetish} />
         <Route path='/teend3' component={Teend3} />
+        <Route path='/pornstar' component={Pornstar} />
+        <Route path='/bigass' component={Bigass} />
         
         
 
