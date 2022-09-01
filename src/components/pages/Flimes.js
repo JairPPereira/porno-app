@@ -69,6 +69,18 @@ export default function Filmes() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://imgs1cdn.adultempire.com/products/55/474455h.jpg" />
+      <Card.Body>
+        <Card.Title>Teen Drive 3</Card.Title>
+        <Link to="./Teend3"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://imgs1cdn.adultempire.com/products/81/2659481h.jpg" />
       <Card.Body>
         <Card.Title>Brazilian 1</Card.Title>
