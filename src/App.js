@@ -34,6 +34,7 @@ import Fetish from './components/pages/Fetish';
 import Teend3 from './components/pages/Teend3';
 import Pornstar from './components/pages/Pornstar';
 import Bigass from './components/pages/Bigass';
+import Videosc from './components/pages/Videosc';
 
 
 
@@ -80,6 +81,7 @@ function App() {
         <Route path='/teend3' component={Teend3} />
         <Route path='/pornstar' component={Pornstar} />
         <Route path='/bigass' component={Bigass} />
+        <Route path='/videosc' component={Videosc} />
         
         
 
