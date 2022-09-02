@@ -17,13 +17,11 @@ export default function Videosc() {
       <iframe
         src="https://jpp-ap.onrender.com/porno"
         target="_blank"
-        scrolling="no"
         data-draggable="none"
         marginwidth="0"
-        marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" height="600px"
+        width="100%" height="800px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
