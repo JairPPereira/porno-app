@@ -15,13 +15,13 @@ export default function Videosc() {
             <Row>
               <Col>
       <iframe
-        src="https://jpp-ap.onrender.com/porno"
+        src="https://jairppereira.github.io/tvweb/porno/"
         target="_blank"
         data-draggable="none"
         marginwidth="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" height="800px"
+        width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
