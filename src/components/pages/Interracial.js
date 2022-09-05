@@ -9,12 +9,12 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
  
-class Bigdick extends Component {
+class Interracial extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://live.adultiptv.net/bigdick.m3u8",
+            src: "https://live.adultiptv.net/interracial.m3u8",
 
             poster: ""
         }
@@ -84,4 +84,4 @@ Home
         );
     }
 }
-export default Bigdick;
+export default Interracial;
